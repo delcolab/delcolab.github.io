@@ -1,8 +1,8 @@
 <img src="/logo.png" alt="Delco Lab Logo" style="max-width:220px; margin-bottom: 1.5rem;">
 
-[Home](/) | [Research](/research) | [People](/people) | [Publications](/publications) | [News](/news) | [Join Us](/join) | [Mission & Values](/mission) | [Resources](/resources)
+[Home](/) · [Research](/research) · [People](/people) · [Publications](/publications) · [News](/news) · [Join Us](/join) · [Mission & Values](/mission) · [Resources](/resources)
 
----
+<br><br>
 
 # The Delco Lab  
 ### Comparative Orthopedics & Mitochondrial Biology
