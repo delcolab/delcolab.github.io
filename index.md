@@ -1,4 +1,6 @@
 <div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:1rem;">
+  
+<link rel="stylesheet" href="/assets/css/custom.css">
 
   <div>
     <img src="/logo.png" alt="Delco Lab Logo" style="max-width:220px; height:auto;">
