@@ -1,6 +1,5 @@
 ---
 title: "The Delco Lab"
-layout: default
 ---
 
 <img src="/logo.png" alt="Delco Lab Logo" style="max-width:220px; margin-bottom: 1.5rem;">
