@@ -1,8 +1,23 @@
-<img src="/logo.png" alt="Delco Lab Logo" style="max-width:220px; margin-bottom: 1.5rem;">
+<div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:1rem;">
 
-[Home](/) · [Research](/research) · [People](/people) · [Publications](/publications) · [News](/news) · [Join Us](/join) · [Mission & Values](/mission) · [Resources](/resources)
+  <div>
+    <img src="/logo.png" alt="Delco Lab Logo" style="max-width:220px; height:auto;">
+  </div>
 
-<br><br>
+  <div style="font-size:0.95rem; text-align:right;">
+    <a href="/">Home</a> ·
+    <a href="/research">Research</a> ·
+    <a href="/people">People</a> ·
+    <a href="/publications">Publications</a> ·
+    <a href="/news">News</a> ·
+    <a href="/join">Join Us</a> ·
+    <a href="/mission">Mission &amp; Values</a> ·
+    <a href="/resources">Resources</a>
+  </div>
+
+</div>
+
+<hr>
 
 # The Delco Lab  
 ### Comparative Orthopedics & Mitochondrial Biology
