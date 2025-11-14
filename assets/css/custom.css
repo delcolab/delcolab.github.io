@@ -1,3 +1,7 @@
+body {
+  font-family: Arial, Helvetica, sans-serif !important;
+}
+
 /* Remove GitHub Pages default header */
 header, .site-header, .page-header {
   display: none !important;
