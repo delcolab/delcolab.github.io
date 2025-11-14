@@ -1,6 +1,7 @@
-[Home](/) | [Research](/research) | [People](/people) | [Publications](/publications) | [News](/news) | [Join Us](/join) | [Mission & Values](/mission) | [Resources](/resources)
+[Home](/) · [Research](/research) · [People](/people) · [Publications](/publications) · [News](/news) · [Join Us](/join) · [Mission & Values](/mission) · [Resources](/resources)
 
----
+<br><br>
+
 # Resources
 
 ## For Prospective Students
