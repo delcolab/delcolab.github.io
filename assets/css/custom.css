@@ -1,0 +1,24 @@
+/* Remove GitHub Pages default header */
+header, .site-header, .page-header {
+  display: none !important;
+}
+
+/* White background + black text */
+body {
+  background-color: white;
+  color: #000;
+}
+
+/* Remove any fallback sidebar if it appears */
+.side-bar, .sidebar, .nav-sidebar {
+  display: none !important;
+}
+
+/* Red accents */
+a {
+  color: #b22222;
+}
+
+h1, h2, h3, h4, h5 {
+  color: #b22222;
+}
