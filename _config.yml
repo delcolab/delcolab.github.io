@@ -1,1 +1,24 @@
 theme: jekyll-theme-minimal
+
+title: "The Delco Lab"
+description: "Comparative Orthopedics & Mitochondrial Biology"
+
+# Navigation bar
+nav:
+  - name: "Home"
+    link: "/"
+  - name: "Research"
+    link: "/research.html"
+  - name: "People"
+    link: "/people.html"
+  - name: "Publications"
+    link: "/publications.html"
+  - name: "News"
+    link: "/news.html"
+  - name: "Join Us"
+    link: "/join.html"
+  - name: "Mission & Values"
+    link: "/mission.html"
+  - name: "Resources"
+    link: "/resources.html"
+
