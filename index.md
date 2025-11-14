@@ -1,4 +1,3 @@
-
 ---
 title: "The Delco Lab"
 layout: default
