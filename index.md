@@ -1,7 +1,3 @@
----
-title: "The Delco Lab"
----
-
 <img src="/logo.png" alt="Delco Lab Logo" style="max-width:220px; margin-bottom: 1.5rem;">
 
 # The Delco Lab  
